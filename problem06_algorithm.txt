@@ -1,0 +1,9 @@
+problem 06 total travel cost 
+
+step 1: start
+step 2: asks the programmer to display 20 pesos fare and display it in fare cost
+step 3: asks the programmer to display 40 pesos toll fee and display it in toll fee cost
+step 4: asks the programmer to display 200 pesos fuel and display it in fuel cost
+step 5: asks the programmer to computes total travel cost and display it in total travel cost
+step 6: display
+step 7: end 
