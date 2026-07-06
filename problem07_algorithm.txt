@@ -1,0 +1,10 @@
+problem 07  Semestar standing  computation
+
+step 1: start
+step 2: asks the programmer to display the weighted percentage which 25 percentage 45 percentage and 30 percentage and display it in weighted percentage
+step 3: asks the programmer to display the quiz score which is 25/25 and display it in quiz score
+step 4: asks the programmer to display the Examination score which is 50/50 and display it in Examination score
+step 5: asks the programmer to display the project scores which is 80/80 and display is in project score
+step 6: asks the programmer to computes the Semestar standing and display it in the Semestar standing
+step 7: display
+step 8: end
