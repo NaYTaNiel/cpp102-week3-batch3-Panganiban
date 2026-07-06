@@ -12,3 +12,6 @@ Problem 04 Examination Average
 Problem 05 Online shopping Cart total
 
 Short reflection : This week i have learn what algorithm is i though it was a page of data but it was a step-by-step instructions designed to solve a specific problem. And learn how to do Pseudocode, a way of writing a steps of simple english structured like statement. And what flow chart is, flowchart is a visualization aim to aid the process and result of an problem, showing a clear image structured chart. and a terrible day of the first week having to solve 30 items in 3 hours.
+
+GitHub resporitory link
+https://github.com/NaYTaNiel/cpp102-week3-batch3-Panganiban.git

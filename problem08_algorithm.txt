@@ -1,0 +1,4 @@
+problem 08 Senior Citizen Discount Eligibility
+
+step 1: start
+step 2: asks the programmer to display eligible for Senior Discount 
