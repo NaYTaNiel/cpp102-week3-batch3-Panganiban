@@ -1,0 +1,9 @@
+Problem 02 Fence Around a lot
+
+step 1: start
+step 2: asks the programmer to create a length of one side of the perimeter
+step 3: asks the programmer to display 10 of length of the one side of the perimeter and diplay it in the one side of the perimeter
+step 4: asks the programmer to display 10 of length of the other one side of the perimeter and diplay it in the other one side of the perimeter
+step 5: asks the programmer to computes the total perimeter length and diplay it in the total length of the perimeter 
+step 6: diplay
+step 7: end

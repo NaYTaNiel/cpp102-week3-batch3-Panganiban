@@ -1,0 +1,8 @@
+Problem 03 Jeepney Fare Computation
+
+step 1: start  
+step 2: asks the programmer to display 2 per kilometer is 10 fare and display it in per kilometer fare 
+step 3: asks the programmer to display 20 kilometer as the total traveled distance and display it in the total distance traveled
+step 4: asks the programmer to computes the total fare and display it in the total fare
+step 5: display 
+step 6: end 

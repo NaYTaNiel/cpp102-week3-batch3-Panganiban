@@ -1,0 +1,9 @@
+Problem 04 Examination Average
+
+step 1: start
+step 2: asks the programmer to display the no.1 Examination score 10/10 and display it in Examination score 1
+step 3: asks the programmer to display the no.2 Examination score 10/10 and display it in Examination score 2
+step 4: asks the programmer to display the no.3 Examination score 10/10 and display it in Examination score 3
+step 5: asks the programmer to computes the average score and display it in average score
+step 6: display
+step 7: end

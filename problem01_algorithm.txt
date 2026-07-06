@@ -1,0 +1,9 @@
+Problem 01 Auditorium Seat Count 
+
+Step 1: start
+step 2: asks the programmer to create a seating that is arranged in an equal rows and columns 
+step 3: asks the programmer to display 10 seating in rows and display it in rows
+step 4: asks the programmer to display 10 seating in columns and display it in columns
+step 5: asks the programmer to computes the total number of seat and display the result
+step 6: display
+step 7: end

@@ -1,0 +1,8 @@
+Problem 05 Online shopping Cart total
+
+step 1: asks the programmer to display 4 apples with a price of 5 fair and display it in apples quantity and price
+step 2: asks the programmer to display 2 orange with a price of 10 fair and display it in orange quantity and price
+step 3: asks the programmer to display 1 pineapple with a price of 30 fair and display it in pineapple quantity and price
+step 4: computes the total price and display it in total price
+step 5: display
+step 6: end 
